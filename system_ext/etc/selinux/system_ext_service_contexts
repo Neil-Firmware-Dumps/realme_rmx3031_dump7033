@@ -1,0 +1,10 @@
+#line 1 "device/realme/RMX3031/sepolicy/private/service_contexts"
+mwis                    u:object_r:mwis_service:s0
+mtkIms                  u:object_r:mtk_ims_service:s0
+wfo                     u:object_r:wfo_service:s0
+media.VTS               u:object_r:vtservice_service:s0
+#line 1 "device/custom/sepolicy/common/private/service_contexts"
+lineagehardware                           u:object_r:lineage_hardware_service:s0
+lineagelivedisplay                        u:object_r:lineage_livedisplay_service:s0
+pocket                                    u:object_r:pocket_service:s0
+customglobalactions                       u:object_r:custom_globalactions_service:s0

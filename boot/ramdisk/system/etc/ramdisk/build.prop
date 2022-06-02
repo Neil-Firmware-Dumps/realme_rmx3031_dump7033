@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=realme
+ro.product.bootimage.device=RMX3031
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=Realme X7 Max 5G
+ro.product.bootimage.name=aosp_RMX3031
+ro.bootimage.build.date=Sat May 28 10:31:22 IST 2022
+ro.bootimage.build.date.utc=1653714082
+ro.bootimage.build.fingerprint=alps/vnd_oppo6893/oppo6893:11/RP1A.200720.011/mp2tc16sppr5V1:user/release-keys
+ro.bootimage.build.id=SP2A.220505.002
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=eng
+ro.bootimage.build.version.incremental=1653714084
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# end of file

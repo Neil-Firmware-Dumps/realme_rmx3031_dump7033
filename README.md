@@ -1,0 +1,14 @@
+# sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-mp2tc16sppr5V1-release-keys
+- manufacturer: 
+- platform: mt6893
+- codename: RMX3031
+- flavor: aosp_RMX3031-eng
+- release: 12
+- id: SP2A.220505.002
+- incremental: 1653714084
+- tags: test-keys
+- fingerprint: alps/vnd_oppo6893/oppo6893:11/RP1A.200720.011/mp2tc16sppr5V1:user/release-keys
+- is_ab: false
+- brand: realme
+- branch: sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-mp2tc16sppr5V1-release-keys
+- repo: realme_rmx3031_dump7033
